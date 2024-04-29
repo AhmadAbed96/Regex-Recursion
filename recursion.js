@@ -2,7 +2,7 @@
 
 function division(number, dividedBy) {
     // Write you logic here.
-    if (dividedBy = 0 ){
+    if (dividedBy === 0 ){
         return 0;
     }
     if(number<dividedBy){
